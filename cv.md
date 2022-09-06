@@ -105,3 +105,45 @@ public class EnigmaRotor
     }
 }
 ```
+
+---
+
+## Experience:
+
+Place | Department | Title | Start date | End date 
+-|-|-|-|-
+Itransition | .NET | Senior software developer | January 2022 | June 2022
+EPAM | .NET | Senior software developer | May 2020 | January 2022
+EPAM | .NET | Midlle software developer | October 2019 | May 2020 
+EPAM | .NET | Junior software developer | March 2019 | October 2019 
+EPAM | .NET RD Lab | Trainee | October 2018 | March 2019 
+
+---
+
+## Cources:
+
+* RS School Cource “JavaScript/Front-end 2022Q3” - **In progress**
+
+---
+
+## Education:
+
+* Belarus, Mogilev
+    * Regional Lyceum №2
+        * Physics and mathematics class
+            * Secondary education (2016)
+    * Belarussian-Russian University
+        * Engineering-Economic department
+            * Bachelor of Software Engineering (2020)
+
+---
+
+## Languages:
+Language | Level 
+-|-
+Belarusian | Native
+Russian | C2 (Advanced)
+English | B1 (Intermediate)
+Ukrainian | A2 (Elementary)
+Polish | A1 (Elementary)
+Spanish | A1 (Elementary)
